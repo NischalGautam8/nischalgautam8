@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Nischal 👋
+# Hi, I'm Nischal 
 
 Full stack developer with a focus on building end-to-end web applications. I work across the stack — from database to UI — and enjoy tackling real-time systems and AI-native products.
 
@@ -10,7 +10,7 @@ Full stack developer with a focus on building end-to-end web applications. I wor
 
 ## Projects
 
-**[Voxa](https://github.com/NischalGautam8)** — AI voice agent that answers customer calls on your behalf, holds natural conversations, and saves a summary to your database. Built with Twilio, Deepgram, Cartesia, and Cerebras.
+**[Voxa](https://github.com/NischalGautam8/Voxa-voice-agent)** — AI voice agent that answers customer calls on your behalf, holds natural conversations, and saves a summary to your database. Built with Twilio, Deepgram, Cartesia, and Cerebras.
 
 **[Second Brain](https://github.com/NischalGautam8/second-brain)** — Passively indexes everything you browse into a local vector database so you can query your own browsing history later.
 
